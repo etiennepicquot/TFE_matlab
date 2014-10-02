@@ -8,5 +8,7 @@ DTis = DT/ETA;
 Toutis = Tin-DTis;
 Pout = Pin * ( (Toutis/Tin)^(GAM/(GAM-1)) );
 
+% test git commit
+
 end
 
